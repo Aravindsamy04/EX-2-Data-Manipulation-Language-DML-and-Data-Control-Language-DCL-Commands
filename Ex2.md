@@ -183,3 +183,4 @@ insert into manager values(7788,'Vikash',4000,0,48000,'12-Aug-82','clerk',50,'Bo
 
 ![270745586-123c7d66-c434-4809-8e89-85fefdf37f24](https://github.com/Aravindsamy04/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/113497037/23a38b3c-e27f-44a0-9afb-cc92f8a9f3e3)
 ### RESULT :
+Thus the Data Manipulation Language (DML) Commands and built in functions in SQL
